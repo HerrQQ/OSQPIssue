@@ -1,0 +1,3 @@
+/home/hryt/Desktop/H01Code/H01Coding/H02 OSQP/OSQPIssue/build/CMakeFiles/project_osqp.dir
+/home/hryt/Desktop/H01Code/H01Coding/H02 OSQP/OSQPIssue/build/CMakeFiles/edit_cache.dir
+/home/hryt/Desktop/H01Code/H01Coding/H02 OSQP/OSQPIssue/build/CMakeFiles/rebuild_cache.dir
