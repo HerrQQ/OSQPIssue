@@ -69,10 +69,38 @@ include CMakeFiles/project_osqp.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/project_osqp.dir/flags.make
 
+CMakeFiles/project_osqp.dir/src/MPCExample.cpp.o: CMakeFiles/project_osqp.dir/flags.make
+CMakeFiles/project_osqp.dir/src/MPCExample.cpp.o: /home/hryt/Desktop/H01Code/H01Coding/H02\ OSQP/OSQPIssue/src/MPCExample.cpp
+CMakeFiles/project_osqp.dir/src/MPCExample.cpp.o: CMakeFiles/project_osqp.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="/home/hryt/Desktop/H01Code/H01Coding/H02 OSQP/OSQPIssue/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/project_osqp.dir/src/MPCExample.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/project_osqp.dir/src/MPCExample.cpp.o -MF CMakeFiles/project_osqp.dir/src/MPCExample.cpp.o.d -o CMakeFiles/project_osqp.dir/src/MPCExample.cpp.o -c "/home/hryt/Desktop/H01Code/H01Coding/H02 OSQP/OSQPIssue/src/MPCExample.cpp"
+
+CMakeFiles/project_osqp.dir/src/MPCExample.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/project_osqp.dir/src/MPCExample.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/hryt/Desktop/H01Code/H01Coding/H02 OSQP/OSQPIssue/src/MPCExample.cpp" > CMakeFiles/project_osqp.dir/src/MPCExample.cpp.i
+
+CMakeFiles/project_osqp.dir/src/MPCExample.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/project_osqp.dir/src/MPCExample.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/hryt/Desktop/H01Code/H01Coding/H02 OSQP/OSQPIssue/src/MPCExample.cpp" -o CMakeFiles/project_osqp.dir/src/MPCExample.cpp.s
+
+CMakeFiles/project_osqp.dir/src/MPC_Longitudinal.cpp.o: CMakeFiles/project_osqp.dir/flags.make
+CMakeFiles/project_osqp.dir/src/MPC_Longitudinal.cpp.o: /home/hryt/Desktop/H01Code/H01Coding/H02\ OSQP/OSQPIssue/src/MPC_Longitudinal.cpp
+CMakeFiles/project_osqp.dir/src/MPC_Longitudinal.cpp.o: CMakeFiles/project_osqp.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="/home/hryt/Desktop/H01Code/H01Coding/H02 OSQP/OSQPIssue/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/project_osqp.dir/src/MPC_Longitudinal.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/project_osqp.dir/src/MPC_Longitudinal.cpp.o -MF CMakeFiles/project_osqp.dir/src/MPC_Longitudinal.cpp.o.d -o CMakeFiles/project_osqp.dir/src/MPC_Longitudinal.cpp.o -c "/home/hryt/Desktop/H01Code/H01Coding/H02 OSQP/OSQPIssue/src/MPC_Longitudinal.cpp"
+
+CMakeFiles/project_osqp.dir/src/MPC_Longitudinal.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/project_osqp.dir/src/MPC_Longitudinal.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/hryt/Desktop/H01Code/H01Coding/H02 OSQP/OSQPIssue/src/MPC_Longitudinal.cpp" > CMakeFiles/project_osqp.dir/src/MPC_Longitudinal.cpp.i
+
+CMakeFiles/project_osqp.dir/src/MPC_Longitudinal.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/project_osqp.dir/src/MPC_Longitudinal.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/hryt/Desktop/H01Code/H01Coding/H02 OSQP/OSQPIssue/src/MPC_Longitudinal.cpp" -o CMakeFiles/project_osqp.dir/src/MPC_Longitudinal.cpp.s
+
 CMakeFiles/project_osqp.dir/src/main.cpp.o: CMakeFiles/project_osqp.dir/flags.make
 CMakeFiles/project_osqp.dir/src/main.cpp.o: /home/hryt/Desktop/H01Code/H01Coding/H02\ OSQP/OSQPIssue/src/main.cpp
 CMakeFiles/project_osqp.dir/src/main.cpp.o: CMakeFiles/project_osqp.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="/home/hryt/Desktop/H01Code/H01Coding/H02 OSQP/OSQPIssue/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/project_osqp.dir/src/main.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="/home/hryt/Desktop/H01Code/H01Coding/H02 OSQP/OSQPIssue/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/project_osqp.dir/src/main.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/project_osqp.dir/src/main.cpp.o -MF CMakeFiles/project_osqp.dir/src/main.cpp.o.d -o CMakeFiles/project_osqp.dir/src/main.cpp.o -c "/home/hryt/Desktop/H01Code/H01Coding/H02 OSQP/OSQPIssue/src/main.cpp"
 
 CMakeFiles/project_osqp.dir/src/main.cpp.i: cmake_force
@@ -86,7 +114,7 @@ CMakeFiles/project_osqp.dir/src/main.cpp.s: cmake_force
 CMakeFiles/project_osqp.dir/src/main_osqp.cpp.o: CMakeFiles/project_osqp.dir/flags.make
 CMakeFiles/project_osqp.dir/src/main_osqp.cpp.o: /home/hryt/Desktop/H01Code/H01Coding/H02\ OSQP/OSQPIssue/src/main_osqp.cpp
 CMakeFiles/project_osqp.dir/src/main_osqp.cpp.o: CMakeFiles/project_osqp.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="/home/hryt/Desktop/H01Code/H01Coding/H02 OSQP/OSQPIssue/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/project_osqp.dir/src/main_osqp.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="/home/hryt/Desktop/H01Code/H01Coding/H02 OSQP/OSQPIssue/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/project_osqp.dir/src/main_osqp.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/project_osqp.dir/src/main_osqp.cpp.o -MF CMakeFiles/project_osqp.dir/src/main_osqp.cpp.o.d -o CMakeFiles/project_osqp.dir/src/main_osqp.cpp.o -c "/home/hryt/Desktop/H01Code/H01Coding/H02 OSQP/OSQPIssue/src/main_osqp.cpp"
 
 CMakeFiles/project_osqp.dir/src/main_osqp.cpp.i: cmake_force
@@ -99,19 +127,23 @@ CMakeFiles/project_osqp.dir/src/main_osqp.cpp.s: cmake_force
 
 # Object files for target project_osqp
 project_osqp_OBJECTS = \
+"CMakeFiles/project_osqp.dir/src/MPCExample.cpp.o" \
+"CMakeFiles/project_osqp.dir/src/MPC_Longitudinal.cpp.o" \
 "CMakeFiles/project_osqp.dir/src/main.cpp.o" \
 "CMakeFiles/project_osqp.dir/src/main_osqp.cpp.o"
 
 # External object files for target project_osqp
 project_osqp_EXTERNAL_OBJECTS =
 
+project_osqp: CMakeFiles/project_osqp.dir/src/MPCExample.cpp.o
+project_osqp: CMakeFiles/project_osqp.dir/src/MPC_Longitudinal.cpp.o
 project_osqp: CMakeFiles/project_osqp.dir/src/main.cpp.o
 project_osqp: CMakeFiles/project_osqp.dir/src/main_osqp.cpp.o
 project_osqp: CMakeFiles/project_osqp.dir/build.make
 project_osqp: /home/hryt/anaconda3/lib/libOsqpEigen.so.0.8.1
 project_osqp: /home/hryt/anaconda3/lib/libosqp.so
 project_osqp: CMakeFiles/project_osqp.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir="/home/hryt/Desktop/H01Code/H01Coding/H02 OSQP/OSQPIssue/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable project_osqp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir="/home/hryt/Desktop/H01Code/H01Coding/H02 OSQP/OSQPIssue/build/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_5) "Linking CXX executable project_osqp"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/project_osqp.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

@@ -81,12 +81,12 @@ clean: CMakeFiles/project_osqp.dir/clean
 CMakeFiles/project_osqp.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/project_osqp.dir/build.make CMakeFiles/project_osqp.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/project_osqp.dir/build.make CMakeFiles/project_osqp.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="/home/hryt/Desktop/H01Code/H01Coding/H02 OSQP/OSQPIssue/build/CMakeFiles" --progress-num=1,2,3 "Built target project_osqp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir="/home/hryt/Desktop/H01Code/H01Coding/H02 OSQP/OSQPIssue/build/CMakeFiles" --progress-num=1,2,3,4,5 "Built target project_osqp"
 .PHONY : CMakeFiles/project_osqp.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/project_osqp.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "/home/hryt/Desktop/H01Code/H01Coding/H02 OSQP/OSQPIssue/build/CMakeFiles" 3
+	$(CMAKE_COMMAND) -E cmake_progress_start "/home/hryt/Desktop/H01Code/H01Coding/H02 OSQP/OSQPIssue/build/CMakeFiles" 5
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/project_osqp.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start "/home/hryt/Desktop/H01Code/H01Coding/H02 OSQP/OSQPIssue/build/CMakeFiles" 0
 .PHONY : CMakeFiles/project_osqp.dir/rule

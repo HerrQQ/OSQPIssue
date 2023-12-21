@@ -129,6 +129,54 @@ project_osqp/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/project_osqp.dir/build.make CMakeFiles/project_osqp.dir/build
 .PHONY : project_osqp/fast
 
+src/MPCExample.o: src/MPCExample.cpp.o
+.PHONY : src/MPCExample.o
+
+# target to build an object file
+src/MPCExample.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/project_osqp.dir/build.make CMakeFiles/project_osqp.dir/src/MPCExample.cpp.o
+.PHONY : src/MPCExample.cpp.o
+
+src/MPCExample.i: src/MPCExample.cpp.i
+.PHONY : src/MPCExample.i
+
+# target to preprocess a source file
+src/MPCExample.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/project_osqp.dir/build.make CMakeFiles/project_osqp.dir/src/MPCExample.cpp.i
+.PHONY : src/MPCExample.cpp.i
+
+src/MPCExample.s: src/MPCExample.cpp.s
+.PHONY : src/MPCExample.s
+
+# target to generate assembly for a file
+src/MPCExample.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/project_osqp.dir/build.make CMakeFiles/project_osqp.dir/src/MPCExample.cpp.s
+.PHONY : src/MPCExample.cpp.s
+
+src/MPC_Longitudinal.o: src/MPC_Longitudinal.cpp.o
+.PHONY : src/MPC_Longitudinal.o
+
+# target to build an object file
+src/MPC_Longitudinal.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/project_osqp.dir/build.make CMakeFiles/project_osqp.dir/src/MPC_Longitudinal.cpp.o
+.PHONY : src/MPC_Longitudinal.cpp.o
+
+src/MPC_Longitudinal.i: src/MPC_Longitudinal.cpp.i
+.PHONY : src/MPC_Longitudinal.i
+
+# target to preprocess a source file
+src/MPC_Longitudinal.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/project_osqp.dir/build.make CMakeFiles/project_osqp.dir/src/MPC_Longitudinal.cpp.i
+.PHONY : src/MPC_Longitudinal.cpp.i
+
+src/MPC_Longitudinal.s: src/MPC_Longitudinal.cpp.s
+.PHONY : src/MPC_Longitudinal.s
+
+# target to generate assembly for a file
+src/MPC_Longitudinal.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/project_osqp.dir/build.make CMakeFiles/project_osqp.dir/src/MPC_Longitudinal.cpp.s
+.PHONY : src/MPC_Longitudinal.cpp.s
+
 src/main.o: src/main.cpp.o
 .PHONY : src/main.o
 
@@ -186,6 +234,12 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... project_osqp"
+	@echo "... src/MPCExample.o"
+	@echo "... src/MPCExample.i"
+	@echo "... src/MPCExample.s"
+	@echo "... src/MPC_Longitudinal.o"
+	@echo "... src/MPC_Longitudinal.i"
+	@echo "... src/MPC_Longitudinal.s"
 	@echo "... src/main.o"
 	@echo "... src/main.i"
 	@echo "... src/main.s"

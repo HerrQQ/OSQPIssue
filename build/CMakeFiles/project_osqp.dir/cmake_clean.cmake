@@ -1,4 +1,8 @@
 file(REMOVE_RECURSE
+  "CMakeFiles/project_osqp.dir/src/MPCExample.cpp.o"
+  "CMakeFiles/project_osqp.dir/src/MPCExample.cpp.o.d"
+  "CMakeFiles/project_osqp.dir/src/MPC_Longitudinal.cpp.o"
+  "CMakeFiles/project_osqp.dir/src/MPC_Longitudinal.cpp.o.d"
   "CMakeFiles/project_osqp.dir/src/main.cpp.o"
   "CMakeFiles/project_osqp.dir/src/main.cpp.o.d"
   "CMakeFiles/project_osqp.dir/src/main_osqp.cpp.o"

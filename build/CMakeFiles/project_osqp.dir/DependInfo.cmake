@@ -8,6 +8,8 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
+  "/home/hryt/Desktop/H01Code/H01Coding/H02 OSQP/OSQPIssue/src/MPCExample.cpp" "CMakeFiles/project_osqp.dir/src/MPCExample.cpp.o" "gcc" "CMakeFiles/project_osqp.dir/src/MPCExample.cpp.o.d"
+  "/home/hryt/Desktop/H01Code/H01Coding/H02 OSQP/OSQPIssue/src/MPC_Longitudinal.cpp" "CMakeFiles/project_osqp.dir/src/MPC_Longitudinal.cpp.o" "gcc" "CMakeFiles/project_osqp.dir/src/MPC_Longitudinal.cpp.o.d"
   "/home/hryt/Desktop/H01Code/H01Coding/H02 OSQP/OSQPIssue/src/main.cpp" "CMakeFiles/project_osqp.dir/src/main.cpp.o" "gcc" "CMakeFiles/project_osqp.dir/src/main.cpp.o.d"
   "/home/hryt/Desktop/H01Code/H01Coding/H02 OSQP/OSQPIssue/src/main_osqp.cpp" "CMakeFiles/project_osqp.dir/src/main_osqp.cpp.o" "gcc" "CMakeFiles/project_osqp.dir/src/main_osqp.cpp.o.d"
   )
